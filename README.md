@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kavya98527
+- 👋 Hi, I’m Kavya
 - 👀 I’m interested in Offensive Security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cyber security projects
