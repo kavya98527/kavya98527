@@ -2,7 +2,7 @@
 - 👀 I’m interested in Offensive Security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cyber security projects
-- 📫 How to reach me --> https://linkedin.com/contactkavya
+- 📫 How to reach me --> https://linkedin.com/in/contactkavya
 
 <!---
 kavya98527/kavya98527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
